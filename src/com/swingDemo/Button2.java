@@ -1,4 +1,4 @@
-package com.net.mindview.util;
+package com.swingDemo;
 import static com.net.mindview.util.SwingConsole.*;
 
 import javax.swing.*;
@@ -8,6 +8,7 @@ import java.awt.event.ActionListener;
 
 /**
  * Created by kaustavc on 3/17/2015.
+ * Event Listner for buttons
  */
 public class Button2 extends JFrame {
     private JButton
